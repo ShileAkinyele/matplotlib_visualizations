@@ -5,8 +5,9 @@ To do this, visualizations are made using Matplotlib, and also Summary statics a
 and analysis on correlation and regression is carried out.
 
 #SUMMARY OF FINDINGS
-From the analysis, it is observed that there is less variability in the Capomulin drug, this is derived from its variance which is recorded as. it is more stable and less likely to cause an increase in tumor volume when compared
-with the other treatments.There is also a positive correlation(r>0) 0.84 between the mouse_weight ahd the tumor_volume when looking at the capomulin drug as the mouse weight increases with the average tumor volume.for a better comparison
-this correlation could have been applied to other drug regimens. The Capomulin drug doesnt contain any potential outliers when analyzed which confirms the mean of the data set is not being skewed as such Capomulin could be considered a more
-suitable medication when compared to the rest of the drugs.
+
+From the analysis, it is observed that there is less variability in the Capomulin drug and the Ramicane drug treatment, this is derived from thevariance which is recorded as 24.947764 and 23.486704 respectively.
+They are more stable and less likely to cause an increase in tumor volume when compared with the other treatments.
+There is also a positive correlation(r>0) 0.84 between the mouse_weight ahd the tumor_volume when looking at the capomulin drug as the mouse weight increases with the average tumor volume.for a better comparison
+this correlation could have been applied to other drug regimens most especially the Ramicane drug regimen. The Capomulin drug doesnt contain any potential outliers when analyzed which confirms the mean of the data set is not being skewed as such Capomulin could be considered a more suitable medication when compared to the rest of the drugs except Remicane.
 
